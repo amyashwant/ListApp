@@ -4,7 +4,9 @@
 In the project directory, you can run:
 
 ### First Step
-#git clone https://github.com/amyashwant/listApp.git
+git clone https://github.com/amyashwant/listApp.git
+
+
 
 ### `npm run start`
 
