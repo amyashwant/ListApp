@@ -3,7 +3,8 @@
 
 In the project directory, you can run:
 
-### git clone https://github.com/amyashwant/listApp.git
+### First Step
+#git clone https://github.com/amyashwant/listApp.git
 
 ### `npm run start`
 
